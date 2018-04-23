@@ -1,0 +1,5 @@
+1;Ivan;Stankovic;operater;111;25;12.12.2017.
+2;jovana;stankovic;organizator;112;25;12.12.2005.
+3;Jovana;blablalba;opozicija;113;25;14.11.2014.
+4;Natasa;Stankovic;Ministar;555;25;10.10.2001.
+5;Mika;Mikic;Vozac;1;21;01.01.1998.
