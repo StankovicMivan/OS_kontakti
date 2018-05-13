@@ -1,0 +1,46 @@
+
+2014-04-06 12:24:42,776 TRACE Test [main] entry
+2014-04-06 12:24:43,151 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:24:43,152 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:24:43,153 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:24:43,153 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:24:44,672 TRACE Test [main] exit with(true)
+2014-04-06 12:33:40,964 TRACE Test [main] entry
+2014-04-06 12:33:41,339 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:33:41,340 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:33:41,341 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:33:41,341 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:33:42,785 TRACE Test [main] exit with(true)
+2014-04-06 12:38:59,447 TRACE Test [main] entry
+2014-04-06 12:38:59,825 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:38:59,826 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:38:59,827 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:38:59,827 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:40:23,827 TRACE Test [main] entry
+2014-04-06 12:40:24,199 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:40:24,200 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:40:24,201 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:40:24,201 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:41:04,580 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:41:04,582 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:41:04,583 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:41:04,584 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:41:10,049 TRACE Test [main] entry
+2014-04-06 12:41:10,458 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:41:10,459 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:41:10,460 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:41:10,460 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:43:32,872 TRACE Test [main] entry
+2014-04-06 12:43:33,251 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:43:33,252 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:43:33,253 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:43:33,253 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:45:47,272 TRACE Test [main] entry
+2014-04-06 12:45:47,654 INFO Student [main] Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Нови Сад ima prosecnu ocenu:7.5
+2014-04-06 12:45:47,655 INFO Student [main] Student sa indeksom:RS 02/11 cije je ime Бакии Страхињаа iz grada Лозницаа ima prosecnu ocenu:8.0
+2014-04-06 12:45:47,656 INFO Student [main] Student sa indeksom:RS 03/11 cije je ime Трајковић Небојша iz grada Београд ima prosecnu ocenu:8.5
+2014-04-06 12:45:47,656 INFO Student [main] Student sa indeksom:RS 04/11 cije je ime Секулић Милош iz grada Ниш ima prosecnu ocenu:9.5
+2014-04-06 12:46:04,775 TRACE Test [main] exit with(true)
+2014-06-23 09:30:32,839 ERROR Student [main] Greska pri ocitavanju 4 0000000000002,Баки Страхиња,Нови Сад,RS 02/11,DEVET;
+2014-06-23 09:34:42,410 ERROR Student [main] Greska pri ocitavanju 4 0000000000002,Баки Страхиња,Нови Сад,RS 02/11,DEVET;
+2014-06-23 09:35:18,924 ERROR Student [main] Greska pri ocitavanju 1-Student 0000000000003,Трајковић Небојша,Инђија,

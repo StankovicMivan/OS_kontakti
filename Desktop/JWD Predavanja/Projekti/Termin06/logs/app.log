@@ -1,0 +1,5 @@
+﻿2014-09-18 16:07:11,849 TRACE Test [main] entry
+2014-09-18 16:07:11,851 INFO Student [main] Uspesno ocitani podaci o studentu
+Student sa indeksom:RS 01/11 cije je ime Срђанов Константин iz grada Лозница ima prosecnu ocenu:7.0
+2014-09-18 16:07:11,852 ERROR Student [main] Greska pri parsiranju ocene studenta 
+0000000000002,Баки Страхиња,Нови Сад,RS 02/11,DEVET;

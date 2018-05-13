@@ -1,0 +1,4 @@
+1;bla bal;555.0;1221;DA;NE;NE;DA;NE;NE;DA;NE;
+2;sdasd;123123.0;1212;DA;DA;NE;DA;DA;NE;DA;NE;
+3;Prodajem juga starog 2 nedelje, kao nov, neogreban;100.0;1989;NE;NE;NE;NE;NE;NE;DA;NE;
+4;Punto veoma los;0.0;1942;NE;NE;NE;NE;NE;NE;DA;NE;
